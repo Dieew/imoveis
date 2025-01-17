@@ -1,12 +1,15 @@
 {
-  "properties": [
+  "real_estate_list": [
     {
       "id": 1,
       "type": "comercio",
       "size": 100,
       "price": 100000,
       "address": "Rua A, 123, Centro, Cidade X",
-      "features": ["Estacionamento", "Próximo ao metrô"],
+      "features": [
+        "Estacionamento",
+        "Próximo ao metrô"
+      ],
       "available": true
     },
     {
@@ -15,7 +18,11 @@
       "size": 150,
       "price": 200000,
       "address": "Avenida B, 456, Bairro Y, Cidade Z",
-      "features": ["Jardim", "Piscina", "2 Vagas de Garagem"],
+      "features": [
+        "Jardim",
+        "Piscina",
+        "2 Vagas de Garagem"
+      ],
       "available": true
     },
     {
@@ -24,7 +31,11 @@
       "size": 75,
       "price": 150000,
       "address": "Rua C, 789, Bairro Z, Cidade X",
-      "features": ["Sacada", "Elevador", "Portaria 24h"],
+      "features": [
+        "Sacada",
+        "Elevador",
+        "Portaria 24h"
+      ],
       "available": false
     },
     {
@@ -33,7 +44,10 @@
       "size": 250,
       "price": 400000,
       "address": "Alameda D, 321, Centro, Cidade Y",
-      "features": ["Amplo Salão", "Armazém"],
+      "features": [
+        "Amplo Salão",
+        "Armazém"
+      ],
       "available": true
     },
     {
@@ -42,7 +56,11 @@
       "size": 300,
       "price": 500000,
       "address": "Rua E, 654, Bairro W, Cidade Z",
-      "features": ["3 Suítes", "Churrasqueira", "Garagem para 3 Carros"],
+      "features": [
+        "3 Suítes",
+        "Churrasqueira",
+        "Garagem para 3 Carros"
+      ],
       "available": false
     },
     {
@@ -51,7 +69,11 @@
       "size": 120,
       "price": 350000,
       "address": "Avenida F, 987, Bairro X, Cidade Y",
-      "features": ["Cobertura", "Piscina Privativa", "2 Vagas de Garagem"],
+      "features": [
+        "Cobertura",
+        "Piscina Privativa",
+        "2 Vagas de Garagem"
+      ],
       "available": true
     },
     {
@@ -60,7 +82,10 @@
       "size": 200,
       "price": 250000,
       "address": "Rua G, 123, Bairro V, Cidade X",
-      "features": ["Área Gourmet", "Escritório"],
+      "features": [
+        "Área Gourmet",
+        "Escritório"
+      ],
       "available": true
     },
     {
@@ -69,7 +94,10 @@
       "size": 180,
       "price": 300000,
       "address": "Rua H, 456, Bairro Y, Cidade Z",
-      "features": ["Estoque", "Área para Escritório"],
+      "features": [
+        "Estoque",
+        "Área para Escritório"
+      ],
       "available": false
     },
     {
@@ -78,7 +106,10 @@
       "size": 90,
       "price": 200000,
       "address": "Avenida I, 789, Bairro Z, Cidade X",
-      "features": ["Próximo ao Shopping", "Área de Lazer Completa"],
+      "features": [
+        "Próximo ao Shopping",
+        "Área de Lazer Completa"
+      ],
       "available": true
     },
     {
@@ -87,7 +118,11 @@
       "size": 350,
       "price": 600000,
       "address": "Rua J, 321, Bairro W, Cidade Y",
-      "features": ["Piscina", "4 Suítes", "Garagem para 4 Carros"],
+      "features": [
+        "Piscina",
+        "4 Suítes",
+        "Garagem para 4 Carros"
+      ],
       "available": true
     }
   ]
